@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Android Development**
 
-- 📝 I regularly write articles on [https://medium.com/@teresajencybala](https://medium.com/@teresajencybala)
+- 📝 I wrote article on [https://medium.com/@teresajencybala](https://medium.com/@teresajencybala)
 
 - 💬 Ask me about **C, Java, Python (I'm just learning though)**
 
