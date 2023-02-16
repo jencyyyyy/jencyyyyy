@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teresajencybala" alt="teresajencybala" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/teresajencybala" target="blank"><img src="https://img.shields.io/twitter/follow/teresajencybala?logo=twitter&style=for-the-badge" alt="teresajencybala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jencyyyyyt" target="blank"><img src="https://img.shields.io/twitter/follow/jencyyyyyt?logo=twitter&style=for-the-badge" alt="jencyyyyyt" /></a> </p>
 
 - 🔭 I’m currently working on **Android Development**
 
