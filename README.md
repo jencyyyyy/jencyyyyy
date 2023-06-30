@@ -1,3 +1,6 @@
+  [![HitCount](https://hits.dwyl.com/jencyyyyy/jencyyyyy.svg?style=flat-square)](http://hits.dwyl.com/jencyyyyy/jencyyyyy)
+
+
 <h1 align="center">Hi 👋, I'm Teresa Jency Bala</h1>
 <h3 align="center">I'm a consistent learner. It's like The potential is very High. I can learn any language or tech stuff and grow eventually. Now, I'm trying to find the path to choose. Someday this "Searching and discovering" will turn to a "finally found" state.</h3>
 
