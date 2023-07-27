@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Teresa Jency Bala</h1>
-<h3 align="center">I'm a consistent learner. It's like The potential is very High. I can learn any language or tech stuff and grow eventually. Now, I'm trying to find the path to choose. Someday this "Searching and discovering" will turn to a "finally found" state.</h3>
+<h3 align="center">I'm a consistent learner. It's like The potential is very High. I can learn any language or tech stuff and grow eventually.</h3>
 
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Penetration Testing**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I’m looking for help with **TensorFlow framework of Python**
 
 - 📝 I wrote article on [https://medium.com/@teresajencybala](https://medium.com/@teresajencybala)
 
