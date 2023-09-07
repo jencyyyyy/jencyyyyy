@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **TensorFlow framework of Python**
 
-- 📝 I wrote article on [https://medium.com/@teresajencybala](https://medium.com/@teresajencybala)
+- 📝 I write article on [https://medium.com/@teresajencybala](https://medium.com/@teresajencybala)
 
-- 💬 Ask me about **C, Java, Python (I'm just learning though)**
+- 💬 Ask me about **C, Java, and Python (I'm just learning though)**
 
 - ⚡ Fun fact **I'm versatile**
 
