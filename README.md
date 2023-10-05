@@ -5,15 +5,15 @@
 <h3 align="center">I'm a consistent learner. It's like The potential is very High. I can learn any language or tech stuff and grow eventually.</h3>
 
 
-- 🔭 I’m currently working on **Penetration Testing**
+- 🔭 I’m currently working on **PenTesting**
 
 - 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **TensorFlow framework of Python**
+- 🤝 I’m looking for help with **Machine Learning**
 
 - 📝 I write article on [https://medium.com/@teresajencybala](https://medium.com/@teresajencybala)
 
-- 💬 Ask me about **C, Java, and Python (I'm just learning though)**
+- 💬 Ask me about **C, Java, Bash and Python**
 
 - ⚡ Fun fact **I'm versatile**
 
@@ -23,7 +23,6 @@
 <a href="https://linkedin.com/in/teresa-jency-bala-1a25511a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="teresa-jency-bala-1a25511a1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9384858/jency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9384858/jency" height="30" width="40" /></a>
 <a href="https://kaggle.com/profulina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="profulina" height="30" width="40" /></a>
-<a href="https://instagram.com/je_n_cyyyyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="je_n_cyyyyy" height="30" width="40" /></a>
 <a href="https://medium.com/@teresajencybala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teresajencybala" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/uc-cxfn_qugs5rwmmwvuh77g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/uc-cxfn_qugs5rwmmwvuh77g" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jency" height="30" width="40" /></a>
