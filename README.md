@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C, Java, Bash and Python**
 
-- ⚡ Fun fact **I'm versatile**
+- ⚡ Fun fact **If you smile you will automatically be happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
