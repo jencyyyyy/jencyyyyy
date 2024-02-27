@@ -1,5 +1,4 @@
-  [![HitCount](https://hits.dwyl.com/jencyyyyy/jencyyyyy.svg?style=flat-square)](http://hits.dwyl.com/jencyyyyy/jencyyyyy)
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jencyyyyy&label=Profile%20Views&color=0e75b6&style=flat" alt="jencyyyyy" height=30 /> </p>
 
 <h1 align="center">Hi 👋, I'm Teresa Jency Bala</h1>
 <h3 align="center">I'm a consistent learner. It's like The potential is very High. I can learn any language or tech stuff and grow eventually.</h3>
