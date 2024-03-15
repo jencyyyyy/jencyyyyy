@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 📝 I write article on [https://medium.com/@teresajencybala](https://medium.com/@teresajencybala)
+- 📝 I write article on [Medium](teresa11000.medium.com)
 
 - 💬 Ask me about **C, Java, Bash and Python**
 
