@@ -3,15 +3,15 @@
 <h3 align="center">I'm a consistent learner. It's like The potential is very High. I can learn any language or tech stuff and grow eventually.</h3>
 
 
-- 🔭 I’m currently working on **PenTesting**
+- 🔭 I’m currently working on **Modeling Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **CNN**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **ANN, DNN, CNN, Tensorflow**
 
 - 📝 I write article on [[medium.com/@teresa11000](https://medium.com/@teresa11000)]
 
-- 💬 Ask me about **C, Java, Bash and Python**
+- 💬 Ask me about **C, Java, Bash and Python, ML**
 
 - ⚡ Fun fact **If you smile you will automatically be happy**
 
