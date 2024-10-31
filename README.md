@@ -1,19 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Teresa Jency Bala</h1>
-<h3 align="center">I'm a consistent learner. It's like The potential is very High. I can learn any language or tech stuff and grow eventually.</h3>
+<h3 align="center">I'm a consistent learner.Can learn any language or tech stuff and grow eventually.</h3>
 
 
-- 🔭 I’m currently working on **Modeling Machine Learning Algorithms**
+- 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **CNN**
+- 🌱 I’m currently learning **Making Own Tools**
 
-- 🤝 I’m looking for help with **ANN, DNN, CNN, Tensorflow**
+- 🤝 I’m looking for help with **Bug Bounty**
 
 - 📝 I write article on [[medium.com/@teresa11000](https://medium.com/@teresa11000)]
 
-- 💬 Ask me about **C, Java, Bash and Python, ML**
+- 💬 Ask me about **C, Java, OS, CN, NS, Python ML**
 
-- ⚡ Fun fact **If you smile you will automatically be happy**
+- ⚡ Fun fact **If Seldon Cooper can find a friend pack, so will you..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
