@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Teresa Jency Bala</h1>
-<h3 align="center">I'm a consistent learner.Can learn any language or tech stuff and grow eventually.</h3>
+<h3 align="center">I'm a consistent learner. Can learn any language or tech stuff and grow eventually.</h3>
 
 
-- 🔭 I’m currently working on **myself**
+- 🔭 I’m currently working on **CS and AI**
 
-- 🌱 I’m currently learning **Making Own Tools**
+- 🌱 I’m currently learning **SIEM solutions**
 
 - 🤝 I’m looking for help with **Bug Bounty**
 
