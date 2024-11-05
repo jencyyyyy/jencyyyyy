@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C, Java, OS, CN, NS, Python ML**
 
-- ⚡ Fun fact **If Seldon Cooper can find a friend pack, so will you..**
+- ⚡ Fun fact **If Sheldon Cooper can find a friend pack, so will you..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
