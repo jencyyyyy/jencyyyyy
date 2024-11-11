@@ -1,7 +1,10 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ebrima&pause=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii;++I'm+Teresa+Jency+Bala;" />
+</h1>
+<h3 align="center">Consistent learner. Can learn any language or tech stuff and grow eventually.</h3>
 
-<h1 align="center">Hi 👋, I'm Teresa Jency Bala</h1>
-<h3 align="center">I'm a consistent learner. Can learn any language or tech stuff and grow eventually.</h3>
 
+<img align="right" width="50%" height="auto" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" height="100px"/>
 
 - 🔭 I’m currently working on **CS and AI**
 
