@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Ebrima&pause=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii;++I'm+Teresa;" />
 </h1>
-<h3 align="center">Consistent learner. Can learn any language or tech stuff and grow eventually.</h3>
+<h3 align="center">Consistent learner. learning tech stuff.</h3>
 
 
 <img align="right" width="50%" height="auto" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" height="100px"/>
@@ -28,6 +28,7 @@
 <a href="https://www.youtube.com/@studytimewithjency/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/@studytimewithjency/featured" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jency" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jency2k18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jency2k18" height="30" width="40" /></a>
+<a href="https://www.duolingo.com/profile/jencyyyyy" target="blank"><img align="center" src="https://design.duolingo.com/440d6f2cb52210cdf534.svg" alt="jencyyyyy" height="30" width="40" /></a>    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
