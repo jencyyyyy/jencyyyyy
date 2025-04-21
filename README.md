@@ -37,4 +37,3 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jencyyyyy&label=Profile%20Views&color=0e75b6&style=flat" alt="jencyyyyy" height=30 /> </p>
 
-<script>alert(1)</script>
