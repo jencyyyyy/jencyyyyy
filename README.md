@@ -37,3 +37,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jencyyyyy&label=Profile%20Views&color=0e75b6&style=flat" alt="jencyyyyy" height=30 /> </p>
 
+
+
+<p><a href="https://github.com/jencyyyyy/4-1"></a> RU 4-1</p>
+<p><a href="https://github.com/jencyyyyy/4-2"></a>4-2</p>
+<p><a href="https://github.com/jencyyyyy/4-2-CNS-LAB-my-codes-"></a>4-2 CNS lab</p>
+
