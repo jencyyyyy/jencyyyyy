@@ -40,6 +40,11 @@
 <table border="1">
     <thead>
         <tr>
+            <th colspan="3" style="text-align: center; font-size: 18px; padding: 10px;">
+                RU CSE Affiliated College - Imperial College of Engineering, Khulna (Code: 385) Academic Contents Session: 2018-2019
+            </th>
+        </tr>
+        <tr>
             <th>Semester</th>
             <th>Course/Section</th>
             <th>Link</th>
@@ -47,50 +52,51 @@
     </thead>
     <tbody>
         <tr>
-            <td>RU 1</td>
-            <td>1-1</td>
+            <td>1st Semester</td>
+            <td>RU 1-1</td>
             <td><a href="https://github.com/jencyyyyy/1-1">RU 1-1</a></td>
         </tr>
         <tr>
-            <td>RU 1</td>
-            <td>1-2</td>
+            <td>2nd Semester</td>
+            <td>RU 1-2</td>
             <td><a href="https://github.com/jencyyyyy/1-2">RU 1-2</a></td>
         </tr>
         <tr>
-            <td>RU 2</td>
-            <td>2-1</td>
+            <td>3rd Semester</td>
+            <td>RU 2-1</td>
             <td><a href="https://github.com/jencyyyyy/2-1">RU 2-1</a></td>
         </tr>
         <tr>
-            <td>RU 2</td>
-            <td>2-2</td>
+            <td>4th Semester</td>
+            <td>RU 2-2</td>
             <td><a href="https://github.com/jencyyyyy/2-2">RU 2-2</a></td>
         </tr>
         <tr>
-            <td>RU 3</td>
-            <td>3-1</td>
+            <td>5th Semester</td>
+            <td>RU 3-1</td>
             <td><a href="https://github.com/jencyyyyy/3-1">RU 3-1</a></td>
         </tr>
         <tr>
-            <td>RU 3</td>
-            <td>3-2</td>
+            <td>6th Semester</td>
+            <td>RU 3-2</td>
             <td><a href="https://github.com/jencyyyyy/3-2">RU 3-2</a></td>
         </tr>
         <tr>
-            <td>RU 4</td>
-            <td>4-1</td>
+            <td>7th Semester</td>
+            <td>RU 4-1</td>
             <td><a href="https://github.com/jencyyyyy/4-1">RU 4-1</a></td>
         </tr>
         <tr>
-            <td>RU 4</td>
-            <td>4-2</td>
+            <td>8th Semester</td>
+            <td>RU 4-2</td>
             <td><a href="https://github.com/jencyyyyy/4-2">RU 4-2</a></td>
         </tr>
         <tr>
-            <td>RU 4</td>
-            <td>4-2 CNS Lab</td>
+            <td>8th Semester</td>
+            <td>RU 4-2 CNS Lab</td>
             <td><a href="https://github.com/jencyyyyy/4-2-CNS-LAB-my-codes-">4-2 CNS Lab</a></td>
         </tr>
     </tbody>
 </table>
+
 
