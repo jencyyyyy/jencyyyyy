@@ -38,16 +38,105 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jencyyyyy&label=Profile%20Views&color=0e75b6&style=flat" alt="jencyyyyy" height=30 /> </p>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>RU Semester Links</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        table {
+            width: 60%;
+            margin: auto;
+            border-collapse: collapse;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px 16px;
+            text-align: center;
+        }
+        th {
+            background-color: #007acc;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        a {
+            color: #007acc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
 
-<p>
-    <a href="https://github.com/jencyyyyy/1-1">RU 1-1</a>
-    <a href="https://github.com/jencyyyyy/1-2">RU 1-2</a>
-    <a href="https://github.com/jencyyyyy/2-1">RU 2-1</a>
-    <a href="https://github.com/jencyyyyy/2-2">RU 2-2</a>
-    <a href="https://github.com/jencyyyyy/3-1">RU 3-1</a>
-    <a href="https://github.com/jencyyyyy/3-2">RU 3-2</a>
-    <a href="https://github.com/jencyyyyy/4-1">RU 4-1</a>
-    <a href="https://github.com/jencyyyyy/4-2">RU 4-2</a>
-    <a href="https://github.com/jencyyyyy/4-2-CNS-LAB-my-codes-">4-2 CNS lab</a>
-</p>
+    <h2 style="text-align: center;">RU Semester Course Links</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Semester</th>
+                <th>Course/Section</th>
+                <th>Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>RU 1</td>
+                <td>1-1</td>
+                <td><a href="https://github.com/jencyyyyy/1-1">RU 1-1</a></td>
+            </tr>
+            <tr>
+                <td>RU 1</td>
+                <td>1-2</td>
+                <td><a href="https://github.com/jencyyyyy/1-2">RU 1-2</a></td>
+            </tr>
+            <tr>
+                <td>RU 2</td>
+                <td>2-1</td>
+                <td><a href="https://github.com/jencyyyyy/2-1">RU 2-1</a></td>
+            </tr>
+            <tr>
+                <td>RU 2</td>
+                <td>2-2</td>
+                <td><a href="https://github.com/jencyyyyy/2-2">RU 2-2</a></td>
+            </tr>
+            <tr>
+                <td>RU 3</td>
+                <td>3-1</td>
+                <td><a href="https://github.com/jencyyyyy/3-1">RU 3-1</a></td>
+            </tr>
+            <tr>
+                <td>RU 3</td>
+                <td>3-2</td>
+                <td><a href="https://github.com/jencyyyyy/3-2">RU 3-2</a></td>
+            </tr>
+            <tr>
+                <td>RU 4</td>
+                <td>4-1</td>
+                <td><a href="https://github.com/jencyyyyy/4-1">RU 4-1</a></td>
+            </tr>
+            <tr>
+                <td>RU 4</td>
+                <td>4-2</td>
+                <td><a href="https://github.com/jencyyyyy/4-2">RU 4-2</a></td>
+            </tr>
+            <tr>
+                <td>RU 4</td>
+                <td>4-2 CNS Lab</td>
+                <td><a href="https://github.com/jencyyyyy/4-2-CNS-LAB-my-codes-">4-2 CNS Lab</a></td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
 
