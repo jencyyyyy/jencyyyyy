@@ -27,7 +27,7 @@
 <a href="https://medium.com/@teresa11000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teresajencybala" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@studytimewithjency/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/@studytimewithjency/featured" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jency" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jency" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jency2k18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jency2k18" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jennncy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jency2k18" height="30" width="40" /></a>
 <a href="https://www.duolingo.com/profile/jencyyyyy" target="blank"><img align="center" src="https://design.duolingo.com/440d6f2cb52210cdf534.svg" alt="jencyyyyy" height="30" width="40" /></a>    
 </p>
 
