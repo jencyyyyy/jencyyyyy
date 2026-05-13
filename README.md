@@ -1,22 +1,22 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Ebrima&pause=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii;++I'm+Teresa;" />
 </h1>
-<h3 align="center">Consistent learner. learning tech stuff.</h3>
+<h3 align="center">Consistent learner. a tech soul.</h3>
 
 
 <img align="right" width="50%" height="auto" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" height="100px"/>
 
-- 🔭 I’m currently working on **CS and AI**
+- 🔭 I’m currently working on **Cyber Security and Artificial Intelligence**
 
-- 🌱 I’m currently learning **SIEM solutions**
+- 🌱 I’m currently learning **DevSecOps and SIEM solutions**
 
 - 🤝 I’m looking for help with **Bug Bounty**
 
 - 📝 I write article on [[medium.com/@teresa11000](https://medium.com/@teresa11000)]
 
-- 💬 Ask me about **C, Java, OS, CN, NS, Python ML**
+- 💬 Ask me about **CyberSecurity, Data Analysis, Automation, Python**
 
-- ⚡ Fun fact **If Sheldon Cooper can find a friend pack, so will you..**
+- ⚡ Fun fact **If Sheldon Cooper can find a friend pack, so will you. And if not, well, in that case, you've got you. It's all alignment and choices**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
