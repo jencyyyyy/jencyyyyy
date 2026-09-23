@@ -50,18 +50,18 @@
                 <img src="https://img.shields.io/badge/View%20Repo-Black--Box--Pentesting-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Black-Box-Pentesting badge"/>
             </a>
         </td>
-        <td align="center" width="300">
-            <a href="https://github.com/jencyyyyy/Wazuh">
-                <img src="https://cdn.simpleicons.org/wazuh/00A9E5" width="50" height="50" alt="Wazuh"/>
-                <br/><b>🛡️ Wazuh</b>
-            </a>
-            <br/>
-            <sub>SIEM &amp; XDR setup, rules and monitoring</sub>
-            <br/><br/>
-            <a href="https://github.com/jencyyyyy/Wazuh">
-                <img src="https://img.shields.io/badge/View%20Repo-Wazuh-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh badge"/>
-            </a>
-        </td>
+        <td align="center" width="300" valign="top">
+    <a href="https://github.com/jencyyyyy/Wazuh">
+        <span style="font-size:40px;">🛡️</span>
+        <br/><b>Wazuh</b>
+    </a>
+    <br/>
+    <sub>SIEM &amp; XDR setup, rules and monitoring</sub>
+    <br/><br/>
+    <a href="https://github.com/jencyyyyy/Wazuh">
+        <img src="https://img.shields.io/badge/View%20Repo-Wazuh-00A9E5?style=for-the-badge" alt="Wazuh badge"/>
+    </a>
+</td>
     </tr>
 </table>
 
