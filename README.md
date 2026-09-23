@@ -34,6 +34,42 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.pythontutorial.net/wp-content/uploads/2022/08/numpy-tutorial.svg" alt="numpy" width="40" height="40"/> </a> </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/jencyyy.png" alt="Your Image Badge" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ebrima&pause=500&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii;++I'm+Teresa;" />
+</h1>
+<h3 align="center">Consistent learner. a tech soul.</h3>
+
+<h3 align="center">🚀 Featured Projects</h3>
+<table align="center">
+    <tr>
+        <td align="center" width="300">
+            <a href="https://github.com/jencyyyyy/Black-Box-Pentesting">
+                <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="50" height="50" alt="Black Box Pentesting"/>
+                <br/><b>🕵️ Black-Box-Pentesting</b>
+            </a>
+            <br/>
+            <sub>Black-box penetration testing notes &amp; workflows</sub>
+            <br/><br/>
+            <a href="https://github.com/jencyyyyy/Black-Box-Pentesting">
+                <img src="https://img.shields.io/badge/View%20Repo-Black--Box--Pentesting-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Black-Box-Pentesting badge"/>
+            </a>
+        </td>
+        <td align="center" width="300">
+            <a href="https://github.com/jencyyyyy/Wazuh">
+                <img src="https://cdn.simpleicons.org/wazuh/00A9E5" width="50" height="50" alt="Wazuh"/>
+                <br/><b>🛡️ Wazuh</b>
+            </a>
+            <br/>
+            <sub>SIEM &amp; XDR setup, rules and monitoring</sub>
+            <br/><br/>
+            <a href="https://github.com/jencyyyyy/Wazuh">
+                <img src="https://img.shields.io/badge/View%20Repo-Wazuh-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh badge"/>
+            </a>
+        </td>
+    </tr>
+</table>
+
+<img align="right" width="50%" height="auto" src="https://tenor.com/view/coding-girl-gif-2332171326726785246.gif" height="100px"/>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jencyyyyy&label=Profile%20Views&color=0e75b6&style=flat" alt="jencyyyyy" height=30 /> </p>
